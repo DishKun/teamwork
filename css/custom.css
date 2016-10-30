@@ -143,3 +143,23 @@ h1, h2, span, p, input, button, h3, .item, .sub.header{
   font-weight: normal !important;
   font-family: webfont !important;
 }
+
+/*----------------------------------------------------*/
+#table-bg {
+  background: url(../img-table/banner_bg.png) no-repeat;
+  height: 226px;
+  padding:0 280px;
+  padding-top: 103px;
+}
+#table-middle {
+  height: 922px;
+  background-color: #f3f3f3;
+  padding:0 280px;
+
+}
+#table-main {
+  height: 922px;
+  background-color: white;
+  top:-5%;
+  border-radius: 10px;
+}
