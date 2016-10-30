@@ -30,7 +30,7 @@ body{
 /*导航栏右侧文字*/
 h2{
 
-  font-size: 196px;
+  font-size: 16px !important;
 }
 /*导航栏右侧按钮*/
 #menu-button{
