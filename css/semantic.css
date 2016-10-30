@@ -28294,6 +28294,7 @@ a.ui.card:hover,
 .ui.checkbox input:checked ~ label:after {
   opacity: 1;
   color: rgba(0, 0, 0, 0.95);
+
 }
 
 /*--------------
@@ -28310,6 +28311,7 @@ a.ui.card:hover,
 .ui.checkbox input:not([type=radio]):indeterminate ~ label:after {
   opacity: 1;
   color: rgba(0, 0, 0, 0.95);
+
 }
 
 /*--------------
@@ -28329,6 +28331,8 @@ a.ui.card:hover,
 .ui.checkbox input:checked:focus ~ .box:after,
 .ui.checkbox input:checked:focus ~ label:after {
   color: rgba(0, 0, 0, 0.95);
+
+
 }
 
 /*--------------
@@ -28466,11 +28470,13 @@ a.ui.card:hover,
 .ui.radio.checkbox input:focus:checked ~ .box:before,
 .ui.radio.checkbox input:focus:checked ~ label:before {
   background-color: #FFFFFF;
+  
 }
 
 .ui.radio.checkbox input:focus:checked ~ .box:after,
 .ui.radio.checkbox input:focus:checked ~ label:after {
   background-color: rgba(0, 0, 0, 0.95);
+
 }
 
 /*--------------

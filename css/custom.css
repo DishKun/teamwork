@@ -162,4 +162,35 @@ h1, h2, span, p, input, button, h3, .item, .sub.header{
   background-color: white;
   top:-5%;
   border-radius: 10px;
+
+}
+#shaixuan{
+  height:76px;
+  background-color: #fcc416;
+  border-top-right-radius: 10px;
+  padding: 27px 0;
+
+}
+#shaixuan > h2{
+ color: #654303;
+
+}
+#four{
+  padding: 0;
+}
+.ui.form label{
+  display: inline;
+}
+.ui.form > .inline.fields{
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+.ui.radio.checkbox label{
+  color: grey;
+}
+.hu{
+  margin:20px 0;
+}
+.hu .ui.checkbox label{
+  color:grey;
 }
