@@ -194,3 +194,21 @@ h1, h2, span, p, input, button, h3, .item, .sub.header{
 .hu .ui.checkbox label{
   color:grey;
 }
+
+
+#btn .ui.button{
+  width:35px;
+  height: 35px;
+  padding-top: 0;
+  padding-left: 0;
+  padding-right: 0;
+  padding-bottom: 0;
+
+
+}
+#centerbtn{
+  display: inline-block;
+  position: absolute;
+  left:50%;
+  transform: translate(-50%,0);
+}
